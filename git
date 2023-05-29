@@ -1,0 +1,4 @@
+git push origin master
+//       remote branch
+// remote - connects the local repo to gh
+// branch copy of your code
